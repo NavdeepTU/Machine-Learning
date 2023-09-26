@@ -1,1 +1,4 @@
 .sqlite filter=lfs diff=lfs merge=lfs -text
+brute_tfidf filter=lfs diff=lfs merge=lfs -text
+01.[[:space:]]K-Nearest[[:space:]]Neighbors/brute_bow filter=lfs diff=lfs merge=lfs -text
+01.[[:space:]]K-Nearest[[:space:]]Neighbors/brute_bow_knn filter=lfs diff=lfs merge=lfs -text
